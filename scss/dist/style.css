@@ -1,15 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
 .feedback-slider__text, .title {
-  font-family: "RobotoCondensed-Regular";
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
 }
 
 .footer-menu__col, .feedback-slider__author, .news__item-title, .project__item-link, .services__item-link, .services__item-title {
-  font-family: "RobotoCondensed-Regular";
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 700;
 }
 
 .call__btn, .call__title {
-  font-family: "Roboto-Medium";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
 
@@ -17,50 +19,50 @@
   font-family: "Roboto-Medium";
   font-weight: 500;
   font-style: normal;
-  src: url("./fonts/Roboto-Medium.woff2") format("woff2"), url("/fonts/Roboto-Medium.woff") format("woff");
+  src: url("./fonts/Roboto-Medium.woff2") format("woff2"), url("./fonts/Roboto-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "Roboto-Regular";
   font-weight: 400;
   font-style: normal;
-  src: url("./fonts/Roboto-Regular.woff2") format("woff2"), url("/fonts/Roboto-Regular.woff") format("woff");
+  src: url("./fonts/roboto-regular.woff2") format("woff2"), url("./fonts/roboto-regular") format("woff");
 }
 @font-face {
   font-family: "RobotoCondensed-Bold";
   font-weight: 700;
   font-style: normal;
-  src: url("./fonts/RobotoCondensed-Bold.woff2") format("woff2"), url("/fonts/RobotoCondensed-Bold.woff") format("woff");
+  src: url("./fonts/RobotoCondensed-Bold.woff2") format("woff2"), url("./fonts/RobotoCondensed-Bold.woff") format("woff");
 }
 @font-face {
   font-family: "RobotoCondensed-Regular";
   font-weight: 400;
   font-style: normal;
-  src: url("./fonts/RobotoCondensed-Regular.woff2") format("woff2"), url("/fonts/RobotoCondensed-Regular.woff") format("woff");
+  src: url("./fonts/RobotoCondensed-Regular.woff2") format("woff2"), url("./fonts/RobotoCondensed-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "Dosis-Medium";
   font-weight: 500;
   font-style: normal;
-  src: url("./fonts/Dosis-Medium.woff2") format("woff2"), url("/fonts/Dosis-Medium.woff") format("woff");
+  src: url("./fonts/Dosis-Medium.woff2") format("woff2"), url("./fonts/Dosis-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "Dosis-light";
   font-weight: 300;
   font-style: normal;
-  src: url("./fonts/Dosis-light.woff2") format("woff2"), url("/fonts/Dosis-light.woff") format("woff");
+  src: url("./fonts/Dosis-light.woff2") format("woff2"), url("./fonts/Dosis-light.woff") format("woff");
 }
 .feedback-slider__text, .title {
-  font-family: "RobotoCondensed-Regular";
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
 }
 
 .footer-menu__col, .feedback-slider__author, .news__item-title, .project__item-link, .services__item-link, .services__item-title {
-  font-family: "RobotoCondensed-Regular";
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 700;
 }
 
 .call__btn, .call__title {
-  font-family: "Roboto-Medium";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
 
@@ -68,37 +70,37 @@
   font-family: "Roboto-Medium";
   font-weight: 500;
   font-style: normal;
-  src: url("./fonts/Roboto-Medium.woff2") format("woff2"), url("/fonts/Roboto-Medium.woff") format("woff");
+  src: url("./fonts/Roboto-Medium.woff2") format("woff2"), url("./fonts/Roboto-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "Roboto-Regular";
   font-weight: 400;
   font-style: normal;
-  src: url("./fonts/Roboto-Regular.woff2") format("woff2"), url("/fonts/Roboto-Regular.woff") format("woff");
+  src: url("./fonts/roboto-regular.woff2") format("woff2"), url("./fonts/roboto-regular") format("woff");
 }
 @font-face {
   font-family: "RobotoCondensed-Bold";
   font-weight: 700;
   font-style: normal;
-  src: url("./fonts/RobotoCondensed-Bold.woff2") format("woff2"), url("/fonts/RobotoCondensed-Bold.woff") format("woff");
+  src: url("./fonts/RobotoCondensed-Bold.woff2") format("woff2"), url("./fonts/RobotoCondensed-Bold.woff") format("woff");
 }
 @font-face {
   font-family: "RobotoCondensed-Regular";
   font-weight: 400;
   font-style: normal;
-  src: url("./fonts/RobotoCondensed-Regular.woff2") format("woff2"), url("/fonts/RobotoCondensed-Regular.woff") format("woff");
+  src: url("./fonts/RobotoCondensed-Regular.woff2") format("woff2"), url("./fonts/RobotoCondensed-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "Dosis-Medium";
   font-weight: 500;
   font-style: normal;
-  src: url("./fonts/Dosis-Medium.woff2") format("woff2"), url("/fonts/Dosis-Medium.woff") format("woff");
+  src: url("./fonts/Dosis-Medium.woff2") format("woff2"), url("./fonts/Dosis-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "Dosis-light";
   font-weight: 300;
   font-style: normal;
-  src: url("./fonts/Dosis-light.woff2") format("woff2"), url("/fonts/Dosis-light.woff") format("woff");
+  src: url("./fonts/Dosis-light.woff2") format("woff2"), url("./fonts/Dosis-light.woff") format("woff");
 }
 html {
   box-sizing: border-box;
@@ -132,7 +134,7 @@ a {
 body {
   min-width: 320px;
   overflow-x: hidden;
-  font-family: "Roboto-Regular", "Arial", "sans-serif";
+  font-family: "Roboto", "Arial", "sans-serif";
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
@@ -220,7 +222,7 @@ ul, li {
 body {
   min-width: 320px;
   overflow-x: hidden;
-  font-family: "Roboto-Regular", "Arial", "sans-serif";
+  font-family: "Roboto", "Arial", "sans-serif";
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
@@ -329,7 +331,7 @@ body {
   min-height: 193px;
 }
 .top-slider__title {
-  font-family: "RobotoCondensed-Regular";
+  font-family: "Roboto Condensed";
   font-size: 28px;
   line-height: 28px;
   font-weight: 400;
@@ -413,7 +415,7 @@ body {
     color: #F9F6E5;
     border: none;
     margin: 0 auto 113px;
-    font-family: "Roboto-Regular";
+    font-family: "Roboto";
     font-size: 18px;
     text-transform: uppercase;
     padding: 16px 44px;
@@ -437,7 +439,7 @@ body {
     display: block;
     padding: 25px 0px 32px;
     margin: 0 auto;
-    font-family: "RobotoCondensed-Regular";
+    font-family: "Roboto Condensed";
     font-size: 18px;
     line-height: 20px;
     font-weight: 400;
@@ -494,7 +496,7 @@ body {
 .call__title {
   font-size: 24px;
   line-height: 24px;
-  font-family: "Roboto-Medium", "Arial", "sans-serif";
+  font-family: "Roboto", "Arial", "sans-serif";
   font-weight: 500;
   color: #fff;
   margin-bottom: 10px;
@@ -1316,7 +1318,7 @@ body {
 }
 .footer-menu__row {
   padding: 10px;
-  font-family: "Roboto-Regular", "Arial", "sans-serif";
+  font-family: "Roboto", "Arial", "sans-serif";
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
@@ -1338,7 +1340,7 @@ body {
   }
   .footer-menu__row {
     padding: 20px 0px;
-    font-family: "Roboto-Regular", "Arial", "sans-serif";
+    font-family: "Roboto", "Arial", "sans-serif";
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -1360,7 +1362,7 @@ body {
   }
   .footer-menu__row {
     padding: 20px 0px;
-    font-family: "Roboto-Regular", "Arial", "sans-serif";
+    font-family: "Roboto", "Arial", "sans-serif";
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -1381,7 +1383,7 @@ body {
   }
   .footer-menu__row {
     padding: 20px 0px;
-    font-family: "Roboto-Regular", "Arial", "sans-serif";
+    font-family: "Roboto", "Arial", "sans-serif";
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
